@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365613157847",
+    "project_id": "ticketavion-bf30e",
+    "storage_bucket": "ticketavion-bf30e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365613157847:android:cfbc59236b08e5eb7a0f92",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFqwhzYkefoYvF3l6xjb0aGtAW7EbPjE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
